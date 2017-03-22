@@ -13,11 +13,11 @@ src/redis-server
 ```
 after that
 just run
-``
+```
 yarn install
 ```
 and
 ```
 yarn start
-``
+```
 or npm equivalents.
