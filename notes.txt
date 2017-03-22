@@ -1,0 +1,27 @@
+yarn init
+yarn add nodemon -D
+
+
+justification -> this is how git workflow goes ->
+git checkout integration
+git checkout -b hello
+git add .
+git commit -m "stupidname"
+git push -u origin
+this takes time in a project,
+what if we could just get rid of that
+this is how git looks after a project
+
+the fastest point between two objects is a straight line
+we edit in the cloud and just pull everytime we want the most recent version of our branch
+other branches are
+i can see the project grow live in my branch, files get added, removed
+every single file creation or edited line gets saved, when you hover you can see who edited the last file
+
+
+It can be used to take live notes as a group for example
+
+Stretches connect to files stored locally on your editor?
+
+
+src/redis-server

@@ -1,0 +1,23 @@
+{
+  "name": "betterHub",
+  "version": "0.0.1",
+  "description": "Better than Github",
+  "main": "app.js",
+  "repository": {},
+  "scripts": {
+    "start": "nodemon app.js",
+    "debug": "node --inspect app.js"
+  },
+  "author": "bernulander",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "ejs": "^2.5.6",
+    "express": "^4.15.2",
+    "redis": "^2.7.1",
+    "share": "0.6.3"
+  }
+}
